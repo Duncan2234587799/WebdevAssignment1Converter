@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
             case 'F->C':
                 return values => Array.isArray(values) ? values.map(value => ((value - 32) * 5 / 9).toFixed(2)): ((values - 32) * 5 / 9).toFixed(2);
             default:
-                throw new Error("Invalid conversion units");
+                throw new Error("Invalid Conversion Units");
         }
     }
 
