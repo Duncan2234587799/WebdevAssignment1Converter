@@ -1,3 +1,8 @@
+// Web Development - Group 9
+// Assignment 1: Advanced JavaScript and Tailwind CSS
+// Date: October/08/2023
+// By: Paul Sholter, Andres Chacon, Guntas Singh, and Elvis Chizoba
+
 document.addEventListener("DOMContentLoaded", function () {
 
     // Conversion function
